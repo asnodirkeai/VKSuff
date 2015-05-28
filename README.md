@@ -1,2 +1,2 @@
 # VKSuff
-My experiences with the VЛ API
+My experiences with the VK API
